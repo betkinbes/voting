@@ -13,3 +13,4 @@ Minimal on-chain voting contract on Stacks blockchain.
   - `vote-b` → vote for option B
   - `get-results()` → check current results
 2026-02-14 19:06:53 - adjusted mapping
+2026-02-14 19:07:32 - added test
