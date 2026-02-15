@@ -45,3 +45,4 @@
 2026-02-15 19:28:21 - added test
 2026-02-15 19:28:35 - updated vote function
 2026-02-15 19:29:07 - updated vote function
+2026-02-15 19:30:28 - adjusted mapping
