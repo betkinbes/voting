@@ -79,3 +79,4 @@
 2026-02-16 13:24:23 - added test
 2026-02-16 13:24:44 - added test
 2026-02-16 13:25:15 - added test
+2026-02-16 19:33:32 - adjusted mapping
