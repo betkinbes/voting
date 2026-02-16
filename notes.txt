@@ -61,3 +61,4 @@
 2026-02-16 09:08:59 - updated vote function
 2026-02-16 09:09:15 - updated vote function
 2026-02-16 09:10:07 - added test
+2026-02-16 09:10:22 - adjusted mapping
