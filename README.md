@@ -122,3 +122,4 @@ Minimal on-chain voting contract on Stacks blockchain.
 2026-02-17 08:36:05 - updated vote function
 2026-02-17 08:36:22 - updated vote function
 2026-02-17 08:36:40 - updated vote function
+2026-02-17 08:36:50 - added test
