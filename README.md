@@ -295,3 +295,4 @@ Minimal on-chain voting contract on Stacks blockchain.
 2026-02-21 11:27:32 - adjusted mapping
 2026-02-21 11:27:41 - adjusted mapping
 2026-02-21 11:28:31 - adjusted mapping
+2026-02-21 11:29:07 - updated vote function
