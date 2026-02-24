@@ -302,3 +302,4 @@
 2026-02-24 10:17:02 - updated vote function
 2026-02-24 10:17:35 - updated vote function
 2026-02-24 10:18:01 - updated vote function
+2026-02-24 10:19:07 - adjusted mapping
